@@ -4,7 +4,8 @@
     "namespace": "android_app",
     "package_name": "com.gogo.areameasure",
     "sha256_cert_fingerprints": [
-      "49:1B:E0:EF:07:D2:92:EC:4A:B5:3E:51:E5:D3:84:99:F0:7F:A8:28:EA:61:6D:4C:D1:96:E0:42:6A:15:CC:E2"
+      "49:1B:E0:EF:07:D2:92:EC:4A:B5:3E:51:E5:D3:84:99:F0:7F:A8:28:EA:61:6D:4C:D1:96:E0:42:6A:15:CC:E2",
+      "25:C6:A5:87:11:5E:25:C8:8A:DC:F4:2B:B8:02:0A:D4:79:0D:E3:C6:A5:06:65:4B:2E:19:09:35:80:1D:DD:53"
     ]
   }
 }]
